@@ -53,11 +53,13 @@ Visualization:
  - Categories like Pet Food, Fruits & Vegetables, and Baby Products have lower revenue → may need marketing, bundling, or pricing strategy.
 
 ## Dashboard
-<img width="891" height="519" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/7403e0b0-64bb-44e0-87bb-c1d8ce233735" />
+
+[Sales Dashboard.png]()
+
 
 ## Final Outcome
    
-The dashboard enables the business to:
+The dashboard enables the business stackholders to:
 
   - Identify revenue-driving categories
   - Optimize discount and pricing strategy
